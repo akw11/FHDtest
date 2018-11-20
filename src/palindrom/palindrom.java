@@ -70,7 +70,6 @@ public class palindrom {
     
 	}
 	public static void main(String[] args) {
-	//String s = new String();
 		int n;
 		System.out.println("Введите количество элементов: ");
         Scanner scanner = new Scanner(System.in);
